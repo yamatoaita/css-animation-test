@@ -1,0 +1,77 @@
+@charset "utf-8"; 
+
+span {
+
+  animation: color linear 5s infinite;
+
+}
+
+@keyframes color {
+
+  0% {
+
+    color: rgb(255, 0, 0);
+
+  }
+
+  10% {
+
+    color: rgb(255, 25, 25);
+
+  }
+
+  20% {
+
+    color: rgb(255, 51, 51);
+
+  }
+
+  30% {
+
+    color: rgb(255, 76, 76);
+
+  }
+
+  40% {
+
+    color: rgb(255, 102, 102);
+
+  }
+
+  50% {
+
+    color: rgb(255, 127, 127);
+
+  }
+
+  60% {
+
+    color: rgb(255, 153, 153) ;
+
+  }
+
+  70% {
+
+    color: rgb(255, 178, 178);
+
+  }
+
+  80% {
+
+    color: rgb(255, 204, 204);
+
+  }
+
+  90% {
+
+    color:rgb(255, 229, 229);
+
+  }
+
+  100% {
+
+    color: rgb(255, 255, 255);
+
+  }
+
+}
